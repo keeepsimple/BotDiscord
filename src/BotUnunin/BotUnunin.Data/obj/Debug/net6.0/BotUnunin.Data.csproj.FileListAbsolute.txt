@@ -1,0 +1,17 @@
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\bin\Debug\net6.0\BotUnunin.Data.deps.json
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\bin\Debug\net6.0\BotUnunin.Data.runtimeconfig.json
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\bin\Debug\net6.0\BotUnunin.Data.dll
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\bin\Debug\net6.0\BotUnunin.Data.pdb
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\bin\Debug\net6.0\BotUnunin.Models.dll
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\bin\Debug\net6.0\BotUnunin.Models.pdb
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.csproj.AssemblyReference.cache
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.AssemblyInfoInputs.cache
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.AssemblyInfo.cs
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.csproj.CoreCompileInputs.cache
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.csproj.CopyComplete
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.dll
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\refint\BotUnunin.Data.dll
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.pdb
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\BotUnunin.Data.genruntimeconfig.cache
+F:\Git Project\BotDiscord\src\BotUnunin\BotUnunin.Data\obj\Debug\net6.0\ref\BotUnunin.Data.dll
